@@ -1,0 +1,38 @@
+.box
+{
+ display: flex;
+ flex-direction: column;
+ width: 700px;
+ margin: auto;
+ box-shadow: 0px 0px 30px 5px rgb(102, 102, 255);
+ border-radius: 10px;
+background-color: white;
+ padding: 32px;
+ margin-top: 84px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+input 
+{
+    padding: 10px;
+    margin: 7px;
+}
+button
+{
+    padding: 10px;
+    margin: 7px;
+}
+
+body {
+
+    background: url(https://www.gannett-cdn.com/media/2019/10/02/USATODAY/usatsports/gettyimages-1066324992.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrap{
+
+}
